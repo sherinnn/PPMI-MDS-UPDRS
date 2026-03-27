@@ -1,3 +1,4 @@
+# Parkinsons longitudinal disease severity modeling with mixed-effects analysis
 ## Overview
 I modeled how disease severity evolves over time using mixed-effects models, which account for repeated visits per patient. I found that disease severity increases significantly over time, but with large variability across patients, meaning progression rates differ widely
 
