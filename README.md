@@ -8,7 +8,7 @@ This kind of modeling is important for predicting disease progression, evaluatin
 I built a full pipeline including data cleaning, longitudinal formatting, feature engineering, mixed-effects modeling, and visualization
 
 ## Data used
-I used real-world longitudinal data from the PPMI dataset, which includes multiple clinical visits per patient. I focused on the MDS-UPDRS Part III score as a measure of disease severity.
+I used the MDS-UPDRS Part III longitudinal data from the PPMI dataset, which includes multiple clinical visits per patient. I focused on the MDS-UPDRS Part III score as a measure of disease severity.
 
 ## How is this different from typical ML problems?
 The challenge is that observations from the same patient are not independent, so standard regression would give biased results.
